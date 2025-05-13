@@ -1,4 +1,4 @@
-# ManyChat Coupon Codes, Discount Deals & Offer in 2025
+# ManyChat Coupon Codes, Discount Deals & Offers 2025
 
 If you're running an online business or handling customer messages, you’ve probably heard of ManyChat. It's a tool that helps you talk to customers automatically through Facebook Messenger, Instagram, WhatsApp, and even SMS and email. You can build chatbots, send updates, and answer questions without doing everything by hand.
 
