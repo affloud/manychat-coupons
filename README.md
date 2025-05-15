@@ -16,7 +16,7 @@ In this guide, you’ll find details about ManyChat’s free trial, current coup
   <img src="https://drive.google.com/uc?export=view&id=1xtvZqxiFbGGNwu0LF0cennPA__fgE5z4"  alt="">
 </a>
 
-ManyChat is a chatbot and automation tool designed to help businesses talk to their customers through chat apps like Facebook Messenger, Instagram, WhatsApp, SMS, and email. It makes it easy to create automated conversations without needing to know how to code.
+**ManyChat** is a chatbot and automation tool designed to help businesses talk to their customers through chat apps like Facebook Messenger, Instagram, WhatsApp, SMS, and email. It makes it easy to create automated conversations without needing to know how to code.
 
 You can use ManyChat to:
 
