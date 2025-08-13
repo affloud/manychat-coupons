@@ -10,7 +10,7 @@ Over 2 million businesses use ManyChat to save time and boost sales. It’s popu
 
 In this guide, you’ll find details about ManyChat’s free trial, current coupon codes, and some of the best deals you can grab in 2025.
 
-## ManyChat Overview
+## ManyChat Key Highlights
 
 <a href="https://afftrend.com/manychat">
   <img src="https://drive.google.com/uc?export=view&id=1xtvZqxiFbGGNwu0LF0cennPA__fgE5z4"  alt="">
